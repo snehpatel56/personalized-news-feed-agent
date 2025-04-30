@@ -57,10 +57,7 @@ api_key = 'YOUR_API_KEY_HERE'
 
 python main.py
 
-or
 
-## Deploy it on streamlit 
-push code to github and then deploy easily
 
 
 
