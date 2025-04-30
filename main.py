@@ -105,7 +105,7 @@ def print_recommendations(recommendations):
 # Main pipeline
 def main():
     api_url = 'https://newsdata.io/api/1/news'
-    api_key = 'pub_837292dc5985a12009412503c14621a59c91f'
+    api_key = 'pub_8372933e7e078060e03d1431001fe55c42553'
 
     print("Fetching news articles...")
     article_df = fetch_articles(api_url, api_key)
